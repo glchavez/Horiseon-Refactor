@@ -1,4 +1,4 @@
-/*Style sheet for index.html, designing Horiseon Services web page*/
+/*Style sheet for index.html, Horiseon Services web page*/
 
 * {
     box-sizing: border-box;
@@ -68,6 +68,13 @@ p {
     background-position: center;
 }
 
+/*Box settings for search engine optimization, online reputation management, and social media marketing content of web page*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 /*Location setting for left positioned photos*/
 .float-left {
     float: left;
@@ -78,13 +85,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-/*Box settings for search engine optimization, online reputation management, and social media marketing content of web page*/
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 /*search engine optimization, online reputation management, and social media marketing written content settings*/
