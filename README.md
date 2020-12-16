@@ -14,9 +14,7 @@ To look at the final product, please click on the following link: [Horiseon Refa
 
 When loading the web page from the link referenced in the Description section of this README, you will see three navigation links in the top right of the page. When clicked, these links will re-direct you to the relevant part of the web page. Please reference the following screenshot of the web page.
 
-'''md
 ![Web page screenshot](assets/images/01-html-css-git-homework-demo.png)
-'''
 
 ## Credits
 
