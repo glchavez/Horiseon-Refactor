@@ -29,6 +29,7 @@ body {
     color: #d9dcd6;
 }
 
+/*Specified design settings of navigation bar positioning and font style*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -37,7 +38,6 @@ body {
     font-size: 20px;
 }
 
-/*Specified design settings of navigation bar*/
 .header nav ul {
     list-style-type: none;
 }

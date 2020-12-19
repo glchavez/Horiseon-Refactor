@@ -2,9 +2,9 @@
 
 ## Description
 
-This repository (Horiseon-Refactor) was about improving the accessibility of a current web page for the fictional company Horiseon. Given a starting html and css file, I was able to implement my knowledge and skill to refactor the web page into something that was more accessible and organized for other users. The opportunity to practice my web development skills in a simulated real-world situation was of great motivation, providing me with a sense of what is to come in this career feild.
+This repository (Horiseon-Refactor) was about improving the accessibility of a current web page for the fictional company Horiseon. Given a starting html and css file, I was able to implement my knowledge and skill to refactor the web page into something that was more accessible and organized for other users. The opportunity to practice my web development skills in a simulated real-world situation was of great motivation, providing me with a sense of what is to come in this career field.
 
-In addition to making the web page more accessible, fixing minor errors and organizing the css file was of top priority. Within the html file I added semantic html elements, corrected a partially functioning navigation bar, and created a descriptive title of the web page. Within the css file I added comments of what each bit of code was responsible for and consolidated the code to make it consise and organized.
+In addition to making the web page more accessible, fixing minor errors and organizing the css file was of top priority. Within the html file I added semantic html elements, corrected a partially functioning navigation bar, and created a descriptive title of the web page. Within the css file I added comments of what each bit of code was responsible for and consolidated the code to make it concise and organized.
 
 Overall, I have improved my understanding of html, css, and how to read the relationship between these files and the functions they are to execute on a web page. I have also gained valuable experience using GitHub and transfering files between GitHub and my local device. In learning all of this, I beleive I have been able to create a standout final product that is cleaner than what I found it and maintains the design and functionality of the original web page.
 
